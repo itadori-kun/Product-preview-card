@@ -1,0 +1,62 @@
+@media (max-width: 28em) {
+    *{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    .container-holder{
+        height: 100vh;
+max-width: 375px;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+        gap: 3.5%;
+        height: 93vh;
+        width: 90vw;
+        background-color: var(--white);
+        align-items: center;
+        margin: auto;
+        border-radius: 8px;
+        margin-bottom: 1rem;
+        padding-right: 0;
+    }
+    .img-div{
+        width: 100%;
+    }
+    .picture-img{
+        width: 90vw;
+        height: 250px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0;
+    }
+    /*********product design area*******/
+.span-text{
+    padding-top: .4rem;
+}
+.product-details{
+    padding-left: 1.5rem;
+}
+.product-details h1{
+    padding: 1.1rem 0;
+    font-size: 33px;
+}
+.product-details p{
+    margin-bottom: 1.2rem;
+    padding-right: 1rem;
+    word-spacing: 2.5px;
+}
+.product-details h2 {
+    font-size: 30px;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    display: inline-block;
+    color: var(--dark-cyan);
+    margin-bottom: 1rem;
+
+}
+.btn{
+    padding: 1.2rem 7rem;
+    font-size: 14px;
+}
+}
