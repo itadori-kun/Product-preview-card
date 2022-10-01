@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Netlify url](https://product-preview-card-front.netlify.app/)
 - Github URL: [Git URL @itadori-kun](https://github.com/itadori-kun/Product-preview-card.git)
 
 ## My process
