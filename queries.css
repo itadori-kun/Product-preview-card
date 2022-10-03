@@ -1,4 +1,4 @@
-@media (max-width: 30em) {
+/* @media (max-width: 30em) {
     .container-holder{
         height: 100vh;
         max-width: 100%;
@@ -21,10 +21,17 @@
     .picture-img{
         width: 100%;
         border-radius: 0;
-        border-top-right-radius: 10px;
-        border-bottom-left-radius: 0;
-    }
+        border-top-right-radius: 8px;
+        border-top-left-radius: 8px;
+    } */
     /*********product design area*******/
+    /* .product-details {
+        height: 60%;
+        width: 90%;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        margin: 0 auto;
+    }
 .span-text{
         padding-top: 1.1rem;
         letter-spacing: 4px;
@@ -55,4 +62,4 @@
 .btn{
     margin: -.5rem auto 1rem auto;
 }
-}
+} */
